@@ -141,4 +141,4 @@ Gunakan aplikasi **Inno Setup Compiler** di Windows untuk membuka file skrip kon
 *   `packaging/installer_warga.iss` (untuk installer Warga)
 *   `packaging/installer_admin.iss` (untuk installer Admin)
 
-Installer hasil kompilasi akhir berformat `.exe` setup akan tersimpan di dalam folder `output/`.
+Installer hasil kompilasi akhir berformat `.exe` setup akan tersimpan di dalam folder `dist/`.
